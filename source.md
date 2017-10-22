@@ -28,9 +28,7 @@ class: center, middle
 
 ---
 
-class: center, middle
 
-此处留白以后再补
 
 ---
 ---
@@ -79,3 +77,9 @@ class: center, middle
 
 
 <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508652864331&di=7721d1f9b3e80ea047802a523a63c651&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fw%3D580%2Fsign%3D96c539f0f103918fd7d13dc2613c264b%2F6f9d22a85edf8db13ef112740f23dd54544e74c4.jpg" width=580 style="margin: 0px 80px">
+
+---
+
+class: center, middle
+
+真没有了
