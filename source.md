@@ -19,7 +19,9 @@ class: center, middle
 
 你们钦点的我也没办法不是？
 
-<div align=center>---
+
+---
+
 
 class: center, middle
 
