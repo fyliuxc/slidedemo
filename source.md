@@ -10,7 +10,6 @@ class: center, middle
 #### 刘星晨 (fyliuxc@pku.edu.cn)  
 
 ???
-## 后续
 
 ### <font color="orangered">听取人生经验，提高姿势水平</font>
 
@@ -41,6 +40,8 @@ class: center, middle
 class: center, middle
 
 # 谢谢观看
+
+???
 
 ## 谈笑风生
 
